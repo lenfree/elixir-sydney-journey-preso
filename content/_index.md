@@ -9,11 +9,10 @@ Lenfree Yeung
 
 ---
 
-# My background
+# About Me
 
-- operations
-- automation focus
-- used to call DevOps but not really a role but rather a culture
+- operations and automation
+- used to call DevOps but it is not really a role, rather a culture
 - new fancy name SRE
 - Ruby - first programming language I love
 - started Golang - when Vagrant and Docker came out and it was shiny the new thing at that time
@@ -28,10 +27,11 @@ Lenfree Yeung
 - first Elixir application
   - had to migrate and own old application design while maintaining backwards compatibility
     - parse logs and return a CSV output while keeping history from Elasticsearch and an existing file
-    - wrote this in Go but found edge cases such as new version came out while older data doesn't have them
-      have to find a dynamic language to easily handle them
+    - wrote this in Go but found edge cases such as new version came out while older data doesn't have them.
+      Hence, I have to find a dynamic language to easily handle them
     - didn't pick Ruby because it was an opportunity to learn Elixir
     - had to implement own sort function and it wasn't hard
+    - it was easy for my teammate with to collaborate
 
 ---
 
@@ -39,9 +39,9 @@ Lenfree Yeung
 
 - syntax feels like home
 - community
-- easy to find solutions/answers
+- easy to find solutions/answers from Google search
 - helped me understand how map and other enum
-  function are implemented - when I was writing in Ruby, I only know
+  functions are implemented - when I was writing in Ruby, I only know
   how to use them
 - supervisor
 - liveview
@@ -52,7 +52,7 @@ Lenfree Yeung
 # Things I dislike
 
 - roles are hard to find
-- a bit of a challege to get real world experience
+- a bit of a challege to get a real world experience
 
 ---
 
